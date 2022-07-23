@@ -1,6 +1,0 @@
-#canvas{
-margin: auto; 
-background:lightgray;
-width: 500px;
-height: 400px;
-}
